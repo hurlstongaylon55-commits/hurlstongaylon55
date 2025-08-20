@@ -1,0 +1,33 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(to right, #000, #111, #222);
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard {
+  padding: 50px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #ff8800ff;
+}
+
+.menu a {
+  display: inline-block;
+  margin: 20px;
+  padding: 15px 30px;
+  background:#ff8800ff;
+  color: #000;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.menu a:hover {
+  background: #ff8800ff;
+}
